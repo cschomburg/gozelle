@@ -1,0 +1,62 @@
+{
+    "status": "success",
+    "response": {
+        "currentPage": 1,
+        "pages": 3,
+        "results": [
+            {
+                "groupId": 410618,
+                "groupName": "Jungle Music / Toytown",
+                "artist": "Logistics",
+                "tags": [
+                    "drum.and.bass",
+                    "electronic"
+                ],
+                "bookmarked": false,
+                "vanityHouse": false,
+                "groupYear": 2009,
+                "releaseType": "Single",
+                "groupTime": "1339117820",
+                "maxSize": 237970,
+                "totalSnatched": 318,
+                "totalSeeders": 14,
+                "totalLeechers": 0,
+                "torrents": [
+                    {
+                        "torrentId": 959473,
+                        "editionId": 1,
+                        "artists": [
+                            {
+                                "id": 1460,
+                                "name": "Logistics",
+                                "aliasid": 1460
+                            }
+                        ],
+                        "remastered": false,
+                        "remasterYear": 0,
+                        "remasterCatalogueNumber": "",
+                        "remasterTitle": "",
+                        "media": "Vinyl",
+                        "encoding": "24bit Lossless",
+                        "format": "FLAC",
+                        "hasLog": false,
+                        "logScore": 79,
+                        "hasCue": false,
+                        "scene": false,
+                        "vanityHouse": false,
+                        "fileCount": 3,
+                        "time": "2009-06-06 19:04:22",
+                        "size": 243680994,
+                        "snatches": 10,
+                        "seeders": 3,
+                        "leechers": 0,
+                        "isFreeleech": false,
+                        "isNeutralLeech": false,
+                        "isPersonalFreeleech": false,
+                        "canUseToken": true
+                    }
+                ]
+            }
+        ]
+    }
+}

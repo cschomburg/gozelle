@@ -1,0 +1,80 @@
+{
+    "status": "success",
+    "response": {
+        "id": 1460,
+        "name": "Logistics",
+        "notificationsEnabled": false,
+        "hasBookmarked": true,
+        "image": "http://img120.imageshack.us/img120/3206/logiop1.jpg",
+        "body": "",
+        "vanityHouse": false,
+        "tags": [
+            {
+                "name": "breaks",
+                "count": 3
+            }
+        ],
+        "similarArtists": [],
+        "statistics": {
+            "numGroups": 125,
+            "numTorrents": 443,
+            "numSeeders": 3047,
+            "numLeechers": 95,
+            "numSnatches": 28033
+        },
+        "torrentgroup": [
+            {
+                "groupId": 72189681,
+                "groupName": "Fear Not",
+                "groupYear": 2012,
+                "groupRecordLabel": "Hospital Records",
+                "groupCatalogueNumber": "NHS209CD",
+                "tags": [
+                    "breaks",
+                    "drum.and.bass",
+                    "electronic",
+                    "dubstep"
+                ],
+                "releaseType": 1,
+                "groupVanityHouse": false,
+                "hasBookmarked": false,
+                "torrent": [
+                    {
+                        "id": 29991962,
+                        "groupId": 72189681,
+                        "media": "CD",
+                        "format": "FLAC",
+                        "encoding": "Lossless",
+                        "remasterYear": 0,
+                        "remastered": false,
+                        "remasterTitle": "",
+                        "remasterRecordLabel": "",
+                        "scene": true,
+                        "hasLog": false,
+                        "hasCue": false,
+                        "logScore": 0,
+                        "fileCount": 19,
+                        "freeTorrent": false,
+                        "size": 527749302,
+                        "leechers": 0,
+                        "seeders": 20,
+                        "snatched": 55,
+                        "time": "2012-04-14 15:57:00",
+                        "hasFile": 29991962
+                    }
+                ]
+            }
+        ],
+        "requests": [
+            {
+                "requestId": 172667,
+                "categoryId": 1,
+                "title": "We Are One (Nu:logic Remix)/timelapse",
+                "year": 2012,
+                "timeAdded": "2012-02-07 03:44:39",
+                "votes": 3,
+                "bounty": 217055232
+            }
+        ]
+    }
+}
