@@ -32,7 +32,7 @@ func structToValues(i interface{}, values url.Values) {
 				v = "1"
 			}
 		case string:
-			f.String()
+			v = f.String()
 		}
 		if v != "" {
 			values.Set(strings.ToLower(typ.Field(i).Name), v)
